@@ -139,7 +139,6 @@ resource "google_sql_database_instance" "instance" {
 }
 ```
 
-
 ## Example Usage - Cloudrunv2 Service Noauth
 
 
